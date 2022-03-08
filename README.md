@@ -8,4 +8,4 @@ Thanks for checking out this front-end coding challenge.
 
 ## `Live`
 
-Link: [](https://huddle-landing-page-with-alternating-feature-blocks-master-sage.vercel.app)
+Link: [Huddle landing page](https://huddle-landing-page-with-alternating-feature-blocks-master-sage.vercel.app)
